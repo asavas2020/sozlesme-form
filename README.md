@@ -1,0 +1,2 @@
+# sozlesme-form
+acıklama sayfası
